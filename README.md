@@ -1,8 +1,7 @@
 # Business Analyst
 
-<div align="center">
-    <img src="images/linkedin_headshot.jpg" alt="Juan Diego Cepeda" width="120" height="120" style="border-radius: 50%; object-fit: cover;">
-</div>
+<img src="images/linkedin_headshot.jpg" alt="Juan Diego Cepeda" width="100" height="100" style="border-radius: 50%; object-fit: cover;">
+
 
 
 
