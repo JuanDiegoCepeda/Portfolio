@@ -1,6 +1,6 @@
 # Business Analyst
 
-![Juan Diego Cepeda](images/linkedin_headshot.jpg)  
+![Juan Diego Cepeda](images/linkedin%20headshot.jpg)
 
 
 ### Education
