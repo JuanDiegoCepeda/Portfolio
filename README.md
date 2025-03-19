@@ -2,8 +2,6 @@
 
 ![Juan Diego Cepeda](images/linkedin_headshot.jpg)  
 
-*Data Analyst | Python | SQL | Power BI | Tableau*
-
 
 ### Education
 
