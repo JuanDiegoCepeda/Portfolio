@@ -11,6 +11,7 @@ Hult International Business School
 - Master's in Business Analytics
 - Bachelors In Business Administration
 
+---
 
 ### Skills
 
@@ -22,6 +23,7 @@ Competencies: Data Management, Data Extraction & Visualization, Python Data Anal
 
 Certifications: MIT Data Science & Analytics.
 
+---
 
 ### Work Experience
 
